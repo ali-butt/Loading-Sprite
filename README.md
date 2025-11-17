@@ -105,5 +105,5 @@ You may use this shader for commercial and non-commercial projects.
 Credit is appreciated.
 
 ## 👤 Author
-Created by Ali Butt.
+Created by [Ali Butt](https://www.linkedin.com/in/aliiftikharbutt/).  
 If you use it, feel free to star the repo or share it!
