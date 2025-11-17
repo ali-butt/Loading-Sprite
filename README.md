@@ -89,18 +89,18 @@ public class Loader : MonoBehaviour
     }
 }
 ```
-This is just a basic usage example — you're free to control the _Progress value however you like:
-You can drive _Progress however you want — for example:
+This is just a basic usage example — you're free to control the **_Progress** value however you like:
+You can drive **_Progress** however you want — for example:
 
-🔄 Link it to an actual loading operation
+🔄 Link it to an **actual loading operation**
 
-✨ Animate it using DOTween, LeanTween, or any tweening library
+✨ Animate it using **DOTween, LeanTween**, or any tweening library
 
-🎮 Update it in response to gameplay events
+🎮 Update it in response to **gameplay events**
 
-🎚️ Control it through a UI Slider
+🎚️ Control it through a **UI Slider**
 
-🌐 Sync it with network loading, health bars, timers, or anything else
+🌐 Sync it with **network loading, health bars, timers**, or anything else
 
 The shader graph is fully flexible — you control how the effect behaves.
 
