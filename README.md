@@ -89,9 +89,9 @@ public class Loader : MonoBehaviour
 }
 ```
 
-## 📸 Screenshots
+## 📸 Graph Screenshot
 
-![Loading Preview](https://raw.githubusercontent.com/ali-butt/Loading-Sprite/main/Images/preview.png)
+![Loading Preview](https://raw.githubusercontent.com/ali-butt/Loading-Sprite/main/Images/Preview.PNG)
 
 ## 🛠 Built With
 Unity 2022+
@@ -102,7 +102,7 @@ URP / Built-in compatible
 
 ## 📄 License
 You may use this shader for commercial and non-commercial projects.
-Credit is appreciated but optional.
+Credit is appreciated.
 
 ## 👤 Author
 Created by Ali Butt.
