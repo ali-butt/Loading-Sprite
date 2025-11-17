@@ -73,6 +73,7 @@ Assign the material to any:
 
 ### 4️⃣ Drive the Progress via Script
 
+Here’s a simple example of how you can animate the loading progress from code:
 ```csharp
 public class Loader : MonoBehaviour
 {
@@ -88,6 +89,19 @@ public class Loader : MonoBehaviour
     }
 }
 ```
+This is just a basic usage example — you're free to control the _Progress value however you like:
+
+Link it to an actual loading operation
+
+Animate it with a tweening library (DOTween, LeanTween, etc.)
+
+Update it based on gameplay events
+
+Drive it from a UI slider
+
+Sync it with network progress, health bars, timers, etc.
+
+The shader graph is fully flexible — you control how the effect behaves.
 
 ## 📸 Graph Screenshot
 
