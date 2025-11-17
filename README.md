@@ -7,7 +7,7 @@ The effect gradually reveals a sprite using segmented progress steps and feature
 
 ## 🌟 Preview
 
-GIF/Loadingeffect.gif
+![Loading Preview](https://raw.githubusercontent.com/ali-butt/Loading-Sprite/main/GIF/Loadingeffect.gif)
 
 ---
 
@@ -87,24 +87,23 @@ public class Loader : MonoBehaviour
         mat.SetFloat("_Progress", p);
     }
 }
-📸 Screenshots
-(You can add these later)
+```
 
-bash
-Copy code
-Images/preview.png
-🛠 Built With
+## 📸 Screenshots
+
+![Loading Preview](https://raw.githubusercontent.com/ali-butt/Loading-Sprite/main/Images/preview.png)
+
+## 🛠 Built With
 Unity 2022+
 
 Shader Graph
 
 URP / Built-in compatible
 
-📄 License
+## 📄 License
 You may use this shader for commercial and non-commercial projects.
 Credit is appreciated but optional.
 
-👤 Author
+## 👤 Author
 Created by Ali Butt.
 If you use it, feel free to star the repo or share it!
-```
